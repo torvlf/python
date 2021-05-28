@@ -41,8 +41,6 @@ def getData():
                 bEndPage = True
                 break
 
-
-
         # print(savedData)
         if bEndPage == True:
             break
